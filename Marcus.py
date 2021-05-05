@@ -84,10 +84,10 @@ if __name__ == "__main__":
             webbrowser.open("stackoverflow.com")   
 
         elif 'send message to sahil' in query:
-            kit.sendwhatmsg('+919508559392','munmun koyla h the black boy',22,52)
+            kit.sendwhatmsg('+91------','message you want to sent',22,52)
 
         elif 'send message to mom' in query:
-            kit.sendwhatmsg('+916205317352','Hello Mummy ji kaise h aap',22,47)
+            kit.sendwhatmsg('+91-------','message you want sent',22,47)
 
         elif 'play a song on youtube' in query:
             kit.playonyt("save me")
